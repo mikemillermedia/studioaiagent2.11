@@ -44,7 +44,7 @@ const App: React.FC = () => {
           {showBubble && (
             <div className={`fixed bottom-24 right-6 z-50 transition-all duration-300 ${isBouncing ? 'animate-bounce' : ''}`}>
                <div className="bg-[#F5EFE6] text-[#131313] px-3 py-1.5 rounded-lg rounded-br-none shadow-xl border border-[#131313]/10 relative">
-                  <p className="text-xs font-bold tracking-wide whitespace-nowrap">Need help?</p>
+                  <p className="text-xs font-bold tracking-wide whitespace-nowrap"></p>
                </div>
             </div>
           )}
