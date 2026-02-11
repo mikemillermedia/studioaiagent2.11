@@ -1,0 +1,7 @@
+{
+  "name": "Rise & Render AI Agent",
+  "description": "A multimodal AI widget for Rise & Render, a creative studio in Dallas-Fort Worth, featuring text chat and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
